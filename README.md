@@ -61,13 +61,13 @@ A modern and interactive web application that converts spoken words into text in
 
 ## 🌍 Live Demo
 
-(Add your GitHub Pages link here after deployment)
+(https://github.com/Ravitheja-hub/speech-to-text)
 
 ---
 
 ## 👨‍💻 Author
 
-**Ravitheja**
+**Ravitheja Y G**
 
 ---
 
